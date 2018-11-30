@@ -19,8 +19,7 @@ mri-deps:
     - pkgs:
       - build-essential
       - openssl
-      - libreadline6
-      - libreadline6-dev
+      - libreadline-dev
       - curl
       - git-core
       - zlib1g
